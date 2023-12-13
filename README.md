@@ -1,7 +1,7 @@
 # Crowdfunding ETL Project Summary
 
 ## Overview
-This document outlines our ETL mini project, focusing on building a pipeline using Python, Pandas, and PostgreSQL for crowdfunding data.
+In this project, we built a data pipeline using Python, Pandas, and PostgreSQL for crowdfunding data.
 
 ## Key Accomplishments
 
